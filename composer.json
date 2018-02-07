@@ -1,0 +1,12 @@
+{
+  "name": "jam3/api-doc",
+  "description": "Add an endpoint for generated documentation",
+  "minimum-stability": "dev",
+  "license": "Apache 2",
+  "authors": [
+	{
+	  "name": "Guillermo Figueroa Mesa",
+	  "email": "gfirem@gmail.com"
+	}
+  ]
+}
